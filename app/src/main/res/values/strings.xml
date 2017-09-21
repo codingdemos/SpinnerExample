@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+    <string name="this_is_home_screen">This is home screen</string>
+    <string name="this_is_work_screen">This is work screen</string>
+    <string name="this_is_other_screen">This is other screen</string>
+    <string name="this_is_custom_screen">This is custom screen</string>
+
+    <string-array name="names">
+        <item>Please select a value</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+
+</resources>
